@@ -1,0 +1,20 @@
+2020-10-26-18:25:22:------Restoring Hot Backup for DROPLET: landing
+2020-10-26-18:25:25:-----Restored Hot Backup for Landing OK!!: landing
+2020-11-16-13:56:55:------Restoring Hot Backup for DROPLET: landing
+2020-11-16-13:56:58:-----Restored Hot Backup for Landing OK!!: landing
+2020-11-24-20:08:35:------Restoring Hot Backup for DROPLET: landing
+2020-11-24-20:08:35:----- Backup Directory non-existent for DROPLET: landing
+2020-11-24-20:08:35:----- Hot Backup file (sql) non-existent for DROPLET: landing
+2020-11-24-20:08:36:----- Hot Backup file (sql) non-existent for DROPLET: landing
+2020-11-24-20:08:36:----- Hot Backup file (sql) non-existent for DROPLET: landing
+2020-11-24-20:08:37:-----Restored Hot Backup for Landing OK!!: landing
+2020-11-24-20:11:42:------Restoring Hot Backup for DROPLET: landing
+2020-11-24-20:11:43:------Error Hot Restore for DB taskcontrol: landing
+2020-11-24-20:11:45:-----Restored Hot Backup for Landing OK!!: landing
+2020-11-24-20:15:28:------Restoring Hot Backup for DROPLET: landing
+2020-11-24-20:15:29:------Error Hot Restore for DB taskcontrol: landing
+2020-11-24-20:15:31:-----Restored Hot Backup for Landing OK!!: landing
+2020-11-24-20:18:53:------Restoring Hot Backup for DROPLET: landing
+2020-11-24-20:18:56:-----Restored Hot Backup for Landing OK!!: landing
+2020-11-24-20:23:14:------Restoring Hot Backup for DROPLET: landing
+2020-11-24-20:23:17:-----Restored Hot Backup for Landing OK!!: landing

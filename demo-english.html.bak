@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<video width="1675" height="730" controls autoplay preload="auto" document.getElementsByTagName('TaskControl-Ingles-V2.mp4')[0].volumne = 0.5;>
+
+  <source src="/videos/TaskControl-Ingles-V2.mp4" type="video/mp4">
+  
+  Your browser does not support the video tag.
+
+</video>
+
+</body>
+</html>

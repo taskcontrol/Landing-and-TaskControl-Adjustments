@@ -1,0 +1,241 @@
+2020-10-26-17:00:37:------Restoring Hot Backup for DROPLET: landing
+2020-10-26-17:00:38:------Error Hot Restore for DB taskcontrol: landing
+2020-10-26-17:00:38:------Error while Hot Restore for DB Mantis: landing
+2020-10-26-17:00:39:------Error while Hot Restore of DB chat_pro: landing
+2020-10-26-17:00:39:-----Restored Hot Backup for Landing OK!!: landing
+2020-10-26-17:14:18:------Restoring Hot Backup for DROPLET: landing
+2020-10-26-17:14:21:-----Restored Hot Backup for Landing OK!!: landing
+2020-10-28-13:55:17:------Restoring Hot Backup for DROPLET: 
+2020-10-28-13:55:17:----- Hot Backup file (.sql) non-existent for DROPLET: 
+ssh: Could not resolve hostname : Name or service not known
+ssh: Could not resolve hostname : Name or service not known
+ssh: Could not resolve hostname : Name or service not known
+2020-10-28-13:55:17:------Error Restoring Hot Backup for DROPLET: 
+2020-10-28-13:55:17:------Error while changing permission for DROPLET: 
+2020-10-28-13:55:17:-----Restored Hot Backup for DROPLET OK!!: 
+2020-10-28-14:01:08:------Restoring Hot Backup for DROPLET: Demo1
+2020-10-28-14:01:08:----- Hot Backup file (.sql) non-existent for DROPLET: Demo1
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-10-28-14:01:09:-----Restored Hot Backup for DROPLET OK!!: Demo1
+2020-10-28-14:11:50:------Restoring Hot Backup for DROPLET: Demo1
+2020-10-28-14:11:50:----- Hot Backup file (.sql) non-existent for DROPLET: Demo1
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-10-28-14:11:51:------Error Restoring Hot Backup for DROPLET: Demo1
+2020-10-28-14:11:51:-----Restored Hot Backup for DROPLET OK!!: Demo1
+2020-10-28-14:13:41:------Restoring Hot Backup for DROPLET: Demo1
+2020-10-28-14:13:41:----- Hot Backup file (.sql) non-existent for DROPLET: Demo1
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-10-28-14:13:44:-----Restored Hot Backup for DROPLET OK!!: Demo1
+2020-10-28-14:51:41:------Restoring Hot Backup for DROPLET: Demo1
+2020-10-28-14:51:41:----- Hot Backup file (.sql) non-existent for DROPLET: Demo1
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-10-28-14:51:45:-----Restored Hot Backup for DROPLET OK!!: Demo1
+2020-10-28-14:53:37:------Restoring Hot Backup for DROPLET: Demo1
+2020-10-28-14:53:37:----- Hot Backup file (.sql) non-existent for DROPLET: Demo1
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-10-28-14:53:41:-----Restored Hot Backup for DROPLET OK!!: Demo1
+2020-10-28-15:02:21:------Restoring Hot Backup for DROPLET: Demo2
+2020-10-28-15:02:21:----- Hot Backup file (.sql) non-existent for DROPLET: Demo2
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-10-28-15:02:22:------Error Restoring Hot Backup for DROPLET: Demo2
+2020-10-28-15:02:23:-----Restored Hot Backup for DROPLET OK!!: Demo2
+2020-10-28-15:05:32:------Restoring Hot Backup for DROPLET: Demo2
+2020-10-28-15:05:32:----- Hot Backup file (.sql) non-existent for DROPLET: Demo2
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-10-28-15:05:35:-----Restored Hot Backup for DROPLET OK!!: Demo2
+2020-11-21-22:20:58:------Restoring Hot Backup for DROPLET: Demo11
+2020-11-21-22:20:58:------Error Restoring Hot Backup for DROPLET: Demo11
+2020-11-21-22:20:58:------Error while changing permission for DROPLET: Demo11
+2020-11-21-22:20:58:-----Restored Hot Backup for DROPLET OK!!: Demo11
+2020-11-21-22:24:37:------Restoring Hot Backup for DROPLET: Demo11
+2020-11-21-22:24:37:------Error Restoring Hot Backup for DROPLET: Demo11
+2020-11-21-22:24:37:------Error while changing permission for DROPLET: Demo11
+2020-11-21-22:24:37:-----Restored Hot Backup for DROPLET OK!!: Demo11
+2020-11-21-22:32:56:------Restoring Hot Backup for DROPLET: Demo11
+2020-11-21-22:33:54:------Error Restoring Hot Backup for DROPLET: Demo11
+2020-11-21-22:33:54:------Error while changing permission for DROPLET: Demo11
+2020-11-21-22:33:54:-----Restored Hot Backup for DROPLET OK!!: Demo11
+2020-11-21-23:44:00:------Restoring Hot Backup for DROPLET: Demo11
+2020-11-21-23:44:00:----- Hot Backup file (.sql) non-existent for DROPLET: Demo11
+2020-11-21-23:44:00:------Error Restoring Hot Backup for DROPLET: Demo11
+2020-11-21-23:44:00:------Error while changing permission for DROPLET: Demo11
+2020-11-21-23:44:00:-----Restored Hot Backup for DROPLET OK!!: Demo11
+2020-11-26-12:24:36:------Restoring Hot Backup for DROPLET: Demo-04
+Permission denied, please try again.
+Permission denied, please try again.
+Permission denied, please try again.
+2020-11-26-12:24:36:------Error Restoring Hot Backup for DROPLET: Demo-04
+2020-11-26-12:24:36:------Error while changing permission for DROPLET: Demo-04
+2020-11-26-12:24:36:-----Restored Hot Backup for DROPLET OK!!: Demo-04
+2020-11-26-12:33:03:------Restoring Hot Backup for DROPLET: Demo-04
+Permission denied, please try again.
+Permission denied, please try again.
+Permission denied, please try again.
+2020-11-26-12:33:03:------Error Restoring Hot Backup for DROPLET: Demo-04
+2020-11-26-12:33:03:------Error while changing permission for DROPLET: Demo-04
+2020-11-26-12:33:03:-----Restored Hot Backup for DROPLET OK!!: Demo-04
+2020-11-26-12:40:16:------Restoring Hot Backup for DROPLET: Demo-04
+Permission denied, please try again.
+Permission denied, please try again.
+Permission denied, please try again.
+2020-11-26-12:40:16:------Error Restoring Hot Backup for DROPLET: Demo-04
+2020-11-26-12:40:16:------Error while changing permission for DROPLET: Demo-04
+2020-11-26-12:40:16:-----Restored Hot Backup for DROPLET OK!!: Demo-04
+2020-11-26-12:43:38:------Restoring Hot Backup for DROPLET: Demo-04
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysqladmin: connect to server at 'localhost' failed
+error: 'Access denied for user 'root'@'localhost''
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysqladmin: connect to server at 'localhost' failed
+error: 'Access denied for user 'root'@'localhost''
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1698 (28000): Access denied for user 'root'@'localhost'
+2020-11-26-12:43:39:------Error Restoring Hot Backup for DROPLET: Demo-04
+2020-11-26-12:43:39:------Error while changing permission for DROPLET: Demo-04
+2020-11-26-12:43:39:-----Restored Hot Backup for DROPLET OK!!: Demo-04
+2020-11-26-12:44:54:------Restoring Hot Backup for DROPLET: Demo-04
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysqladmin: connect to server at 'localhost' failed
+error: 'Access denied for user 'root'@'localhost''
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysqladmin: connect to server at 'localhost' failed
+error: 'Access denied for user 'root'@'localhost''
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1698 (28000): Access denied for user 'root'@'localhost'
+2020-11-26-12:44:54:------Error Restoring Hot Backup for DROPLET: Demo-04
+2020-11-26-12:44:54:------Error while changing permission for DROPLET: Demo-04
+2020-11-26-12:44:54:-----Restored Hot Backup for DROPLET OK!!: Demo-04
+2020-11-26-13:11:47:------Restoring Hot Backup for DROPLET: Demo-04
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysqladmin: DROP DATABASE admin_task failed;
+error: 'Can't drop database 'admin_task'; database doesn't exist'
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-11-26-13:11:48:------Error Restoring Hot Backup for DROPLET: Demo-04
+2020-11-26-13:11:48:------Error while changing permission for DROPLET: Demo-04
+2020-11-26-13:11:48:-----Restored Hot Backup for DROPLET OK!!: Demo-04
+2020-11-26-13:13:32:------Restoring Hot Backup for DROPLET: Demo-04
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-11-26-13:13:33:------Error Restoring Hot Backup for DROPLET: Demo-04
+2020-11-26-13:13:33:------Error while changing permission for DROPLET: Demo-04
+2020-11-26-13:13:33:-----Restored Hot Backup for DROPLET OK!!: Demo-04
+2020-11-26-13:14:41:------Restoring Hot Backup for DROPLET: Demo-04
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-11-26-13:14:44:------Error while changing permission for DROPLET: Demo-04
+2020-11-26-13:14:44:-----Restored Hot Backup for DROPLET OK!!: Demo-04
+2020-11-26-13:15:19:------Restoring Hot Backup for DROPLET: Demo-04
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-11-26-13:15:23:------Error while changing permission for DROPLET: Demo-04
+2020-11-26-13:15:23:-----Restored Hot Backup for DROPLET OK!!: Demo-04
+2020-11-26-13:17:01:------Restoring Hot Backup for DROPLET: Demo-04
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-11-26-13:17:05:------Error while changing permission for DROPLET: Demo-04
+2020-11-26-13:17:05:-----Restored Hot Backup for DROPLET OK!!: Demo-04
+2020-11-26-13:19:14:------Restoring Hot Backup for DROPLET: Demo-04
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-11-26-13:19:18:------Error while changing permission for DROPLET: Demo-04
+2020-11-26-13:19:18:-----Restored Hot Backup for DROPLET OK!!: Demo-04
+2020-11-26-13:20:25:------Restoring Hot Backup for DROPLET: Demo-04
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-11-26-13:20:29:------Error while changing permission for DROPLET: Demo-04
+2020-11-26-13:20:29:-----Restored Hot Backup for DROPLET OK!!: Demo-04
+2020-11-26-13:25:53:------Restoring Hot Backup for DROPLET: Demo-04
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysqladmin: DROP DATABASE admin_task failed;
+error: 'Can't drop database 'admin_task'; database doesn't exist'
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-11-26-13:25:57:-----Restored Hot Backup for DROPLET OK!!: Demo-04
+2020-11-26-16:35:31:------Restoring Hot Backup for DROPLET: Demo-04
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-11-26-16:35:34:------Error Restoring Hot Backup for DROPLET: Demo-04
+2020-11-26-16:35:34:-----Restored Hot Backup for DROPLET OK!!: Demo-04
+2020-11-26-16:36:37:------Restoring Hot Backup for DROPLET: Demo-04
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-11-26-16:36:45:-----Restored Hot Backup for DROPLET OK!!: Demo-04
+2020-11-26-16:39:31:------Restoring Hot Backup for DROPLET: Demo-04
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-11-26-16:39:40:-----Restored Hot Backup for DROPLET OK!!: Demo-04
+2020-11-26-21:26:52:------Restoring Hot Backup for DROPLET: Demo-04
+2020-11-26-21:26:52:----- Hot Backup file (.sql) non-existent for DROPLET: Demo-04
+ssh: Could not resolve hostname : Name or service not known
+ssh: Could not resolve hostname : Name or service not known
+ssh: Could not resolve hostname : Name or service not known
+2020-11-26-21:26:52:------Error Restoring Hot Backup for DROPLET: Demo-04
+2020-11-26-21:26:52:-----Restored Hot Backup for DROPLET OK!!: Demo-04
+2020-11-26-21:27:59:------Restoring Hot Backup for DROPLET: Demo-04
+ssh: Could not resolve hostname : Name or service not known
+ssh: Could not resolve hostname : Name or service not known
+ssh: Could not resolve hostname : Name or service not known
+2020-11-26-21:27:59:------Error Restoring Hot Backup for DROPLET: Demo-04
+2020-11-26-21:27:59:-----Restored Hot Backup for DROPLET OK!!: Demo-04
+2020-11-26-21:31:41:------Restoring Hot Backup for DROPLET: Demo-04
+2020-11-26-21:31:41:----- Hot Backup file (.sql) non-existent for DROPLET: Demo-04
+ssh: Could not resolve hostname : Name or service not known
+ssh: Could not resolve hostname : Name or service not known
+ssh: Could not resolve hostname : Name or service not known
+2020-11-26-21:31:42:------Error Restoring Hot Backup for DROPLET: Demo-04
+2020-11-26-21:31:42:-----Restored Hot Backup for DROPLET OK!!: Demo-04
+2020-11-26-21:36:23:------Restoring Hot Backup for DROPLET: Demo-04
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-11-26-21:36:25:------Error Restoring Hot Backup for DROPLET: Demo-04
+2020-11-26-21:36:25:-----Restored Hot Backup for DROPLET OK!!: Demo-04
+2020-11-26-21:38:21:------Restoring Hot Backup for DROPLET: Demo-04
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-11-26-21:38:22:------Error Restoring Hot Backup for DROPLET: Demo-04
+2020-11-26-21:38:22:-----Restored Hot Backup for DROPLET OK!!: Demo-04
+2020-11-26-21:40:19:------Restoring Hot Backup for DROPLET: Demo-03
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-11-26-21:40:25:-----Restored Hot Backup for DROPLET OK!!: Demo-03
+2020-11-26-21:42:05:------Restoring Hot Backup for DROPLET: Demo-04
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysqladmin: DROP DATABASE admin_task failed;
+error: 'Can't drop database 'admin_task'; database doesn't exist'
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-11-26-21:42:11:-----Restored Hot Backup for DROPLET OK!!: Demo-04
+2020-11-26-21:45:04:------Restoring Hot Backup for DROPLET: Demo-03
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysqladmin: DROP DATABASE admin_task failed;
+error: 'Can't drop database 'admin_task'; database doesn't exist'
+mysqladmin: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-11-26-21:45:08:-----Restored Hot Backup for DROPLET OK!!: Demo-03

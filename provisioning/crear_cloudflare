@@ -1,0 +1,15 @@
+## Apuntamos Cloudflare al nuevo Droplet mediante la creacion de un registro "A"
+
+CLOUDFLARE_A_RECORD=`curl -X POST "https://api.cloudflare.com/client/v4/zones/e0ef0e112209bc8a0533da71c5daa95c/dns_records" -H "X-Auth-Email: support.taskcontrol.net" -H "X-Auth-Key: $CLOUDFLARE_API_TOKEN" -H "Content-Type: application/json" --data '{"type":"A","name":"www.'$DROPLET_NAME'.taskcontrol.net","content":"'$IP_ADDRESS'","ttl":120,"priority":0,"proxied":true}'`
+
+
+OUTPUT_CLOUDFLARE_A_RECORD=`echo $CLOUDFLARE_A_RECORD | jq -r 'success'`
+
+if [ "$OUTPUT_CLOUDFLARE_A_RECORD" != true ]; then
+     current_date_time=`date +%Y-%m-%d-%H:%M:%S`
+     echo $current_date_time":------ Error al crear RECORD A in CloudFlare for www.subdomain--------" >> ${PATH_BASE}droplet_creation.log
+     ## exit 1
+else
+     current_date_time=`date +%Y-%m-%d-%H:%M:%S`
+     echo $current_date_time":----- RECORD A in CloudFlare for the www.subdomain created succesfully! ------" >> ${PATH_BASE}droplet_creation.log
+fi

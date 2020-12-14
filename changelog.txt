@@ -1,0 +1,5 @@
+P#2011-06-01
+* updated smarty (from libs - to version 2.6.26)
+* changed admin/templates/default_menu.tpl
+* changed templates/js/signup.js to correctly work on chrome/ff/ie
+* changed templates/signup.tpl to correctly work on chrome/ff/ie

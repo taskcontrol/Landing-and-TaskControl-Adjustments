@@ -1,0 +1,3 @@
+## Copiamos nuestra public key al droplet del cliente en usuario taskcontrol
+ssh-copy-id -i /home/taskcontrol/.ssh/id_rsa.pub ${REMOTE_USER}@$IP_ADDRESS 2>>${PATH_BASE}droplet_creation.log <<< taskcontrol2020!! >/dev/null
+

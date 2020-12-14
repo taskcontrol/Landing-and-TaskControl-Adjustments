@@ -1,0 +1,9 @@
+[29-Sep-2017 15:18:07 America/Chicago] PHP Warning:  include(/spaw/spaw_control.class.php): failed to open stream: No such file or directory in /home/bairesda/public_html/goitglobal.com/editor/scripts/demo.php on line 31
+[29-Sep-2017 15:18:07 America/Chicago] PHP Warning:  include(): Failed opening '/spaw/spaw_control.class.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bairesda/public_html/goitglobal.com/editor/scripts/demo.php on line 31
+[29-Sep-2017 15:18:07 America/Chicago] PHP Fatal error:  Class 'SPAW_Wysiwyg' not found in /home/bairesda/public_html/goitglobal.com/editor/scripts/demo.php on line 67
+[29-Sep-2017 15:23:11 America/Chicago] PHP Warning:  include(/spaw/spaw_control.class.php): failed to open stream: No such file or directory in /home/bairesda/public_html/goitglobal.com/editor/scripts/demo.php on line 31
+[29-Sep-2017 15:23:11 America/Chicago] PHP Warning:  include(): Failed opening '/spaw/spaw_control.class.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bairesda/public_html/goitglobal.com/editor/scripts/demo.php on line 31
+[29-Sep-2017 15:23:11 America/Chicago] PHP Fatal error:  Class 'SPAW_Wysiwyg' not found in /home/bairesda/public_html/goitglobal.com/editor/scripts/demo.php on line 67
+[20-Dec-2017 14:17:29 America/Chicago] PHP Warning:  include(/spaw/spaw_control.class.php): failed to open stream: No such file or directory in /home/bairesda/public_html/goitglobal.com/editor/scripts/demo.php on line 31
+[20-Dec-2017 14:17:29 America/Chicago] PHP Warning:  include(): Failed opening '/spaw/spaw_control.class.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bairesda/public_html/goitglobal.com/editor/scripts/demo.php on line 31
+[20-Dec-2017 14:17:29 America/Chicago] PHP Fatal error:  Class 'SPAW_Wysiwyg' not found in /home/bairesda/public_html/goitglobal.com/editor/scripts/demo.php on line 67

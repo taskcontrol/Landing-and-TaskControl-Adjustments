@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<custombuttons xmlns="http://toolbar.google.com/custombuttons/">
+  <button>
+    <title>goitglobal .com</title>
+    <site>http://www.goitglobal.com/home.html</site>
+	<description>goitglobal .com</description>
+	<icon mode="base64" type="image/gif">Qk02AwAAAAAAADYAAAAoAAAAEAAAABAAAAABABgAAAAAAAADAADCHgAAwh4AAAAAAAAAAAAAvWM6vWM6vWM6vWM6vWM6vWM6vWM6vWM6vWM6vWM6vWM6vWM6vWM6vWM6vWM6vWM6vWM6WFhYZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmhISEvWM6vWM6ZmZm////////////////////////////////////////////////////vWM6vWM6ZmZm////czoAczoAczoAvb3FczoAczoAczoAvb3FzGYAmZkAmZkA////vWM6vWM6ZmZm////czoAczoAczoAvb3FczoAczoAczoAvb3FmZkAmWYAmZkA////vWM6vWM6ZmZm////czoAczoAczoAvb3FczoAczoAczoAvb3FmZkAmZkAmZkA////vWM6vWM6ZmZm////vb3Fvb3Fvb3Fvb3Fvb3Fvb3Fvb3Fvb3Fvb3Fvb3Fvb3F////vWM6vWM6ZmZm////czoAczoAczoAvb3FczoAczoAczoAvb3FczoAczoAczoA////vWM6vWM6ZmZm////czoAczoAczoAvb3FczoAczoAczoAvb3FczoAczoAczoA////vWM6vWM6ZmZm////czoAczoAczoAvb3FczoAczoAczoAvb3FczoAczoAczoA////vWM6vWM6ZmZm////vb3Fvb3Fvb3Fvb3Fvb3Fvb3Fvb3Fvb3Fvb3Fvb3Fvb3F////vWM6vWM6ZmZm////czoAczoAczoAvb3FczoAczoAczoAvb3FczoAczoAczoA////vWM6vWM6ZmZm////czoAczoAczoAvb3FczoAczoAczoAvb3FczoAczoAczoA////vWM6vWM6ZmZm////czoAczoAczoAvb3FczoAczoAczoAvb3FczoAczoAczoA////vWM6vWM6hISE////////////////////////////////////////////////////vWM6vWM6vWM6vWM6vWM6vWM6vWM6vWM6vWM6vWM6vWM6vWM6vWM6vWM6vWM6vWM6vWM6</icon>
+	<update>http://www.goitglobal.com/button.xml</update>
+	<feed refresh-interval="600">http://www.goitglobal.com/new_projects.xml</feed>
+  </button>
+</custombuttons>

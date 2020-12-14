@@ -1,0 +1,34 @@
+## Base de mail VMAIL (donde se almacenan los mails y la base de datos del API server)
+export DATABASE_NAME1='vmail'
+export DB_USERNAME_VMAIL='root'
+export DB_PASSWORD_VMAIL='taskcontrol2019!!'
+
+## Base AMAVISD (parte de IREDMAIL)
+export DATABASE_NAME2='amavisd' 
+export DB_USERNMAME_AMAVISD='root' 
+export DB_PASSWORD_AMAVISD='taskcontrol2019!!'
+
+## Base de Datos IREDADMIN (Informacion de los admin de iredmail)
+export DATABASE_NAME3='iredadmin'
+export DB_USERNAME_IREDADMIN='root'
+export DB_PASSWORD_IREDADMIN='taskcontrol2019!!'
+
+## Base de Datos IREDAPD (Informacion de los whitelist y blacklist de mails)
+export DATABASE_NAME4='iredapd'
+export DB_USERNAME_IREDAPD='root'
+export DB_PASSWORD_IREDAPD='taskcontrol2019!!'
+
+## Base de Datos SOGO (Informacion de los usuarios de SOGO)
+export DATABASE_NAME5='sogo'
+export DB_USERNAME_SOGO='root'
+export DB_PASSWORD_SOGO='taskcontrol2019!!'
+
+## Base de Datos ROCKETCHAT (Todos los users y data de rocketchat)
+export DATABASE_NAME6='rocketchat'
+export DB_USERNAME_ROCKETCHAT='root'
+export DB_PASSWORD_ROCKETCHAT='taskcontrol2019!!'
+
+export BACKUP_RETAIN_DAYS=8   ## Number of days to keep local backup copy
+export MYSQL_MAILCHAT_USER='c1taskcontrol'
+export MYSQL_MAILCHAT_PASS='j6BRh3gN65tXnE'
+## --------------------------------------------------------------------------

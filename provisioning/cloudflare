@@ -1,0 +1,44 @@
+## Apuntamos Cloudflare al nuevo Droplet mediante la creacion de un registro "A"
+
+DROPLET_NAME_LOWER=`echo "$DROPLET_NAME" | awk '{print tolower($0)}'`
+
+CLOUDFLARE_A_RECORD=`curl -X POST "https://api.cloudflare.com/client/v4/zones/$CLOUDFLARE_ZONE_ID/dns_records/" -H "X-Auth-Email: support@taskcontrol.net" -H "X-Auth-Key: $CLOUDFLARE_GLOBAL_API_KEY" -H "Content-Type: application/json" --data '{"type":"A","name":"'"$DROPLET_NAME_LOWER"'","content":"'"$IP_ADDRESS"'","ttl":120,"priority":10,"proxied":true}'`
+
+
+OUTPUT_CLOUDFLARE_A_RECORD=`echo $CLOUDFLARE_A_RECORD | jq  .success`
+echo "ver que sale del cloudflare 1 : " $OUTPUT_CLOUDFLARE_A_RECORD
+
+
+if [ "$OUTPUT_CLOUDFLARE_A_RECORD" != true ]; then
+     current_date_time=`date +%Y-%m-%d-%H:%M:%S`
+     echo $current_date_time":------ Error al crear RECORD A in CloudFlare for subdomain--------" >> ${PATH_BASE}droplet_creation.log
+     ## exit 1
+else
+     current_date_time=`date +%Y-%m-%d-%H:%M:%S`
+     echo $current_date_time":----- RECORD A in CloudFlare for the subdomain created succesfully!" >> ${PATH_BASE}droplet_creation.log
+fi
+
+
+## Apuntamos Cloudflare al nuevo Droplet con www mediante la creacion de un registro "A"
+
+CLOUDFLARE_A_WWW_RECORD=`curl -X POST "https://api.cloudflare.com/client/v4/zones/$CLOUDFLARE_ZONE_ID/dns_records/" -H "X-Auth-Email: support@taskcontrol.net" -H "X-Auth-Key: $CLOUDFLARE_GLOBAL_API_KEY" -H "Content-Type: application/json" --data '{"type":"A","name":"www.'"$DROPLET_NAME_LOWER"'","content":"'"$IP_ADDRESS"'","ttl":120,"priority":10,"proxied":true}'`
+
+
+OUTPUT_CLOUDFLARE_A_WWW_RECORD=`echo $CLOUDFLARE_A_WWW_RECORD | jq  .success`
+echo "ver que sale del cloudflare 1 : " $OUTPUT_CLOUDFLARE_A_WWW_RECORD
+
+
+if [ "$OUTPUT_CLOUDFLARE_A_WWW_RECORD" != true ]; then
+     current_date_time=`date +%Y-%m-%d-%H:%M:%S`
+     echo $current_date_time":------ Error al crear RECORD A in CloudFlare for www.subdomain--------" >> ${PATH_BASE}droplet_creation.log
+     ## exit 1
+else
+     current_date_time=`date +%Y-%m-%d-%H:%M:%S`
+     echo $current_date_time":----- RECORD A in CloudFlare for the www.subdomain created succesfully!" >> ${PATH_BASE}droplet_creation.log
+fi
+
+## Hacemos una pausa de 60 segundos para dar tiempo a que se creen
+## los registros A en Cloudflare y se vean en Internet
+## (si se ve que es poco tiempo, aumentarlo a 2 minutos por ejemplo)
+sleep 60
+

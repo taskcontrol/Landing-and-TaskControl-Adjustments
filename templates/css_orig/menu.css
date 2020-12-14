@@ -1,0 +1,186 @@
+.solidblockmenu{
+margin: 0;
+padding: 0;
+float: left;
+font: bold 13px Arial;
+width: 100%;
+overflow: hidden;
+margin-bottom: 0px;
+border: 0px solid #625e00;
+border-width: 1px 0;
+background: black url(/blockdefault.gif) center center repeat-x;
+}
+
+.solidblockmenu li{
+display: inline;
+}
+
+.solidblockmenu li a{
+float: left;
+color: white;
+padding: 9px 11px;
+text-decoration: none;
+border-right: 1px solid #b4ae98;
+}
+
+.solidblockmenu li a:visited{
+color: white;
+}
+
+.solidblockmenu li a:hover, .solidblockmenu li .current{
+color: white;
+background: transparent url(/blockactive.gif) center center repeat-x;
+}
+
+
+/* CSS Document */		
+
+
+
+/* BUTTONS */
+
+.buttons{ height:40px; width: 276px; }
+.buttons a, .buttons button{
+    display:block;
+    float:left;
+    font-size:12px;
+    line-height:30%;
+    text-decoration:none;
+    font-weight:bold;
+    color:#fff;
+    cursor:pointer;
+    padding:0px 0px 6px 0px; /* Links */
+}
+.buttons button{
+    width:auto;
+    overflow:visible;
+    padding:4px 10px 3px 7px; /* IE6 */
+}
+.buttons button[type]{
+    padding:5px 10px 5px 7px; /* Firefox */
+    line-height:17px; /* Safari */
+}
+*:first-child+html button[type]{
+    padding:4px 10px 3px 7px; /* IE7 */
+}
+.buttons button img, .buttons a img{
+    margin:0 3px -3px 0 !important;
+    padding:0;
+    border:none;
+    width:16px;
+    height:16px;
+}
+
+
+.login_txt {
+    background-color:#497DB2;
+    border:1px solid #d1d1d1;
+    color:#fff;
+    border-radius:4px; -moz-border-radius: 4px;
+    font-weight:normal;	
+}
+
+/* STANDARD */
+button {
+    background-color:#497DB2;
+    border:1px solid #d1d1d1;
+    color:#fff;
+    border-radius:4px; -moz-border-radius: 4px;
+    font-weight:normal;	
+}
+
+button:hover, .buttons a:hover{
+    background-color:#497DB2;
+    border:2px solid #c2e1ef;
+    color:orange;
+    border-radius:4px; -moz-border-radius: 4px;
+    font-weight:normal;	
+}
+.buttons a:active{
+    background-color:#497DB2;
+    border:2px solid #c2e1ef;
+    color:orange;
+    border-radius:4px; -moz-border-radius: 4px;
+    font-weight:normal;	
+}
+
+
+/* POSITIVE */
+
+button .buttons button.positive, .buttons a.positive{
+    /*color:#529214;*/
+    color: white;
+    background-color:#537AB1;
+    height: 30px;
+    width:180px;
+    border-radius:4px; -moz-border-radius: 4px;
+    font-weight:normal;	
+}
+.buttons a.positive:hover, button.positive:hover{
+    background-color:#497DB2;
+    border:2px solid #c2e1ef;
+    color:orange;
+   /* background-color:orange;
+    border:1px solid #C6D880;
+    color:#529214;*/
+}
+.buttons a.positive:active{
+   /* background-color:orange;
+    border:1px solid #529214;
+    color:#fff;*/
+    background-color:#497DB2;
+    border:1px solid #6299c5;
+    color:orange;
+}
+
+
+/* NEGATIVE */
+
+.buttons a.negative, button.negative{
+    color:#d12f19;
+}
+.buttons a.negative:hover, button.negative:hover{
+    background:#fbe3e4;
+    border:1px solid #fbc2c4;
+    color:#d12f19;
+}
+.buttons a.negative:active{
+    background-color:#d12f19;
+    border:1px solid #d12f19;
+    color:#fff;
+}
+
+/* REGULAR */
+
+button.regular, .buttons a.regular, a.regular{
+    border:1px solid #d1d1d1;
+    font-family:Arial, Helvetica, sans-serif;
+    padding:5px 0 5px 0;
+    float:right;
+    color: white;
+    background-color:#537AB1;
+    padding:;
+    width:100px;
+    border-radius:4px;
+    -moz-border-radius: 4px;
+    font-weight:normal;	
+}
+
+.buttons a.regular:hover, button.regular:hover, a.regular:hover{
+    background-color:#497DB2;
+    border:1px solid #c2e1ef;
+    color:orange;
+}
+
+.buttons a.regular:active, a.regular:active{
+    background-color:#497DB2;
+    border:1px solid #6299c5;
+    color:orange;
+}
+
+button.regular img{
+
+   margin-left:-10px;
+   margin-right:5px;
+   margin-top:-5px;	
+}

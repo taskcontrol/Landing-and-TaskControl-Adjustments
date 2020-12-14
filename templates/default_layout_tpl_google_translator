@@ -1,0 +1,174 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>{$Site_Title}</title>
+	<meta name="title" 			content="{$Meta_Title}">
+	<meta name="description" 	content="{$Meta_Description}">
+	<meta name="keywords" 		content="{$Meta_Keyword}">
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+	<link href="{$Templates_CSS}style.css" rel="stylesheet" type="text/css">
+		<link href="{$Templates_CSS}stylemenu.css" rel="stylesheet" type="text/css">
+			<link href="{$Templates_CSS}rounded.css" rel="stylesheet" type="text/css">
+					<link href="{$Templates_CSS}default.css" rel="stylesheet" type="text/css">
+		<link href="{$Templates_CSS}menu.css" rel="stylesheet" type="text/css">
+	<link rel="alternate" type="application/rss+xml"  href="rss_pages.php" title="RSS Feed Page">
+	
+	 <script src="/jquery-1.2.6.pack.js" type="text/javascript"></script>
+    <script src="/jquery.flow.1.1.min.js" type="text/javascript"></script>
+<script src="/paul.js" type="text/javascript"></script>
+		
+	<script language="javascript" src="{$Templates_JS}validate.js"></script>
+	<script language="javascript" src="{$Templates_JS}functions.js"></script>
+	<!--script language="javascript" src="{$Templates_JS}menu.js"></script-->
+    {section name=FileName loop=$JavaScript}
+    <script language="javascript" src="{$Templates_JS}{$JavaScript[FileName]}"></script>
+	{/section}
+	
+	<style type="text/css">
+
+
+
+</style>
+	
+</head>
+
+<body>
+	 
+	<!-- MAIN STARTS HERE -->
+	<div id="main">
+	
+		<!-- TOP AREA STARTS HERE -->
+		<div id="topbg">
+			<div id="top_area" >
+				<div id="logo"><img src="{$Templates_Image}detective_logo.png" /></div>
+				<!-- LINK AREA STARTS HERE -->
+				<div id="link_area">
+					<div id="top_link">
+<center><a href="http://translate.googleusercontent.com/translate_c?depth=1&hl=en&rurl=www.google.com&sl=auto&tl=es&u=http://goitglobal.com/&usg=ALkJrhjuwoRWmj2gIJpPFbrcn5yXfWjong"><img src="es.png"></a></center>
+						{if $smarty.session.User_Name}
+						
+						<div class="buttons"  style="float:left;">
+							<form method=post action=logout.php>
+    								<button type="submit" class="regular" name="Submit" value="{$lang_common.Login}">
+        							<img src="/es/logout.png" alt=""/>
+        								Logout
+    								</button>
+							</form>
+						</div>
+							
+							<div class="buttons"  style="float:left;">
+								<form method=post action=account.php>
+    									<button type="submit" class="regular" name="Submit" value="{$lang_common.Login}">
+        									<img src="/es/account.png" alt=""/> Account 
+									</button>
+								</form>
+							</div>
+							
+							{/if}
+						
+						<div class="buttons"  style="float:left;">
+							<form method=post action="mailto:info@goitglobal.com">
+    								<button type="submit" class="regular" name="Submit" value="{$lang_common.Contact_Us}">
+        								<img src="/es/comments.png" alt="Contact Us"/> Contact Us
+    								</button>
+							</form>
+						</div>
+						<div class="buttons"  style="float:left;">
+							<form method=post action=page_3.html>
+    								<button type="submit" class="regular" name="Submit" value="{$lang_common.Login}">
+        								<img src="/es/help.png" alt="Help"/> Help
+    								</button>
+							</form>
+						</div>
+						
+						<br><br>
+			
+						
+					</div>
+				<div class="clear"></div>
+				</div>
+				<!-- LINK AREA ENDS HERE -->
+				<div style="width:910px; height:10px; clear:both;"></div>
+				<table width=900 border=0>
+					<tr>
+						<td>				
+							<div class="nav">
+							<ul>
+								<li class="active"><a href="home.html"><span>Last Projects</span></a></li>
+								<li><a href="all_projects.php"><span>Project Requests</span></a></li>
+								<li ><a href="all_seller_profiles.php"><span>Find a freelancer</span></a></li>
+								<li><a href="all_portfolio.php"><span>Our Freelancers</span></a></li>
+								<li><a href="signup.php"><span>Signup</span></a></li>
+							</ul>
+							</div>
+						</td>
+
+						<td>
+						<div>
+							<ul id="m-soc7">
+								<li><a class="twitter" href="https://twitter.com/"><span>Twitter</span></a></li>
+								<li><a class="facebook" href="http://www.facebook.com/"><span>Facebook</span></a></li>
+								<li><a class="google" href="https://accounts.google.com/"><span>Google+</span></a></li>
+								<li><a class="rss" href="tucuentadeusuario"><span style="border:0;">RSS</span></a></li>
+							</ul>
+						</div>
+						</td>
+					</tr>
+				</table>
+
+		{include file="$T_Header"}
+		<!-- BANNER AREA ENDS HERE -->
+		
+		<!-- CONTAINER AREA STARTS HERE -->
+		
+		<div id="containerbg">
+			
+			<div id="headbg">
+			<div id="head_area">
+			<!-- for login error
+			{if $smarty.get.login_error}
+			<table width="847" border="0" align="center" cellpadding="0" cellspacing="0">
+			  <tr>
+				<td height="23" style="font-family:Arial, Helvetica, sans-serif;font-size:13px;font-weight:bold;color:#FFFFFF;text-decoration:none;" align="center">{if $smarty.get.login_error}{$lang_common.Login_Error}{else}&nbsp;{/if}</td>
+			  </tr>
+			</table>
+			{/if}-->
+	
+			
+	<div class="roundedcornr_box_503187" style="width:866px;">
+   <div class="roundedcornr_top_503187"><div></div></div>
+      <div class="roundedcornr_content_503187">	
+	
+	
+	
+
+
+
+
+
+			
+			
+		
+		{include file="$T_Body"}
+			
+		<!-- CONTAINER AREA ENDS HERE -->
+		 </div>
+   <div class="roundedcornr_bottom_503187"><div></div></div>
+</div>
+			
+		<div class="clear"></div>
+			</div>
+			<div class="clear"></div>
+		</div>
+			
+		
+			
+		<!-- FOOTER BG STARTS HERE -->
+		{include file="$T_Footer"}
+		<!-- FOOTER BG ENDS HERE -->
+		
+		
+	</div>
+	<!-- MAIN ENDS HERE -->
+</body>
+</html>

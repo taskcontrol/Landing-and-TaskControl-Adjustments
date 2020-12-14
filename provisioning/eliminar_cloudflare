@@ -1,0 +1,18 @@
+### Eliminamos el RECORD A en Cloudflare 
+
+## Primero obtenemos el id de registro A
+
+CLOUDFLARE_ID_A_RECORD=`curl -X GET "https://api.cloudflare.com/client/v4/zones/e0ef0e112209bc8a0533da71c5daa95c/dns_records/?type=A&name='$DROPLET_NAME'&content='$IP_ADDRESS'&proxied=true&page=1&per_page=20&order=type&direction=desc&match=all" -H "X-Auth-Email: support@taskcontrol.net" -H "X-Auth-Key: $CLOUDFLARE_API_TOKEN" -H "Content-Type: application/json"`
+
+OUTPUT_CLOUDFLARE_ID_A_RECORD=`echo $CLOUDFLARE_ID_A_RECORD | jq -r 'id'`
+
+if [ "$OUTPUT_CLOUDFLARE_ID_A_RECORD" == null ]; then
+     current_date_time=`date +%Y-%m-%d-%H:%M:%S`
+     echo $current_date_time":------ Error al eliminar el  RECORD A in CloudFlare for www.subdomain--------" >> ${PATH_BASE}droplet_creation.log
+     ## exit 1
+else
+     current_date_time=`date +%Y-%m-%d-%H:%M:%S`
+     CLOUDFLARE_ID_A_RECORD=`curl -X DELETE "https://api.cloudflare.com/client/v4/zones/e0ef0e112209bc8a0533da71c5daa95c/dns_records/$CLOUDFLARE_ID_A_RECORD" -H "X-Auth-Email: support@taskcontrol.net" -H "X-Auth-Key: $CLOUDFLARE_API_TOKEN" -H "Content-Type: application/json"`
+     
+ echo $current_date_time":--- RECORD A in CloudFlare for the www.subdomain deleted succesfully! ------" >> ${PATH_BASE}droplet_creation.log
+fi

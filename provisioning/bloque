@@ -1,0 +1,1 @@
+sshpass -e ssh-copy-id -o StrictHostKeyChecking=no -f -i /root/.ssh/id_rsa.pub ${REMOTE_ROOT_USER}@$IP_ADDRESS < "/var/www/taskcontrol.net/web/provisioning/answeryes.txt"  2>>${PATH_BASE}droplet_creation.log 

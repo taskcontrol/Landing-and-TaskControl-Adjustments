@@ -1,0 +1,1 @@
+En este directorio iran los dumps de la base de datos de la landing, separados por Fecha-version ej (2020-08-30-v20.03.001.001.0001). Sirven para backup como para restorear determinados datos de un cliente sobre la landing.

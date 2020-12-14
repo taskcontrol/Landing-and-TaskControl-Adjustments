@@ -1,0 +1,16 @@
+Application path: /livechat/php/app.php?contact
+2020-06-19 11:48:55 [error] Could not instantiate mail function.
+Debug information:
+
+
+Stack trace:
+/var/www/clients/client1/web4/web/livechat/php/service/Mailer.php:92 (Logger:error())
+/var/www/clients/client1/web4/web/livechat/php/controller/ContactController.php:36 (Mailer:sendMessage())
+/var/www/clients/client1/web4/web/livechat/php/app/Application.php:165 (ContactController:contactAction())
+/var/www/clients/client1/web4/web/livechat/php/app/Application.php:89 (Application:runAction())
+/var/www/clients/client1/web4/web/livechat/php/app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?upload-upload
+2020-10-25 11:07:09 Undefined index: files on line 172 in /var/www/clients/client1/web4/web/livechat/php/controller/UploadController.php
+Application path: /livechat/php/app.php?upload-upload
+2020-10-30 01:25:55 Undefined index: files on line 172 in /var/www/clients/client1/web4/web/livechat/php/controller/UploadController.php

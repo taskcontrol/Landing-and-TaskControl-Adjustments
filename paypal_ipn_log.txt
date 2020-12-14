@@ -1,0 +1,937 @@
+********************************** TX STARTING ******************************************
+02 Sep 2020 21:43:28 [paypalipn.php] Received IPN,  TX ID : 3ND95129UY029503B
+02 Sep 2020 21:43:28 [paypalipn.php] Sending IPN values:
+cmd=_notify-validate
+mc_gross=50.00
+protection_eligibility=Eligible
+payer_id=MRBTXSDV2QR4E
+payment_date=17%3A10%3A38+Aug+29%2C+2020+PDT
+payment_status=Completed
+charset=windows-1252
+first_name=Douglas
+mc_fee=3.00
+notify_version=3.9
+custom=
+payer_status=unverified
+business=payments%40goitglobal.com
+quantity=1
+verify_sign=Ages2ghS8pmN1BIAMxoGGSM4v6l4A0QJ5Eusj.uVhO3uOx3z530uaqvm
+payer_email=peresartist%40gmail.com
+txn_id=3ND95129UY029503B
+payment_type=instant
+last_name=Lima+Peres
+receiver_email=payments%40taskcontrol.net
+payment_fee=3.00
+shipping_discount=0.00
+receiver_id=PK35JZ6FDXR3S
+insurance_amount=0.00
+txn_type=web_accept
+item_name=grupo-51762876
+discount=0.00
+mc_currency=USD
+item_number=190323075
+residence_country=AR
+shipping_method=Default
+transaction_subject=
+payment_gross=50.00
+ipn_track_id=fb6624e808584
+------------ IPN VALIDATION ----------
+02 Sep 2020 21:43:29 [paypalipn.php] IPN Post Response: INVALID
+
+----------- PAYER NOT VERIFIED -----------
+02 Sep 2020 21:43:29 [paypalipn.php] Payer is not verified. Please contactus@taskcontrol.net
+
+********************************** TX STARTING ******************************************
+02 Sep 2020 21:55:22 [paypalipn.php] IPN Listener received an HTTP request without a Transaction ID.
+02 Sep 2020 21:55:22 [paypalipn.php] Sending IPN values:
+cmd=_notify-validate
+------------ IPN VALIDATION ----------
+02 Sep 2020 21:55:23 [paypalipn.php] IPN Post Response: INVALID
+
+----------- PAYER NOT VERIFIED -----------
+02 Sep 2020 21:55:23 [paypalipn.php] Payer is not verified. Please contactus@taskcontrol.net
+
+********************************** TX STARTING ******************************************
+02 Sep 2020 21:55:28 [paypalipn.php] IPN Listener received an HTTP request without a Transaction ID.
+02 Sep 2020 21:55:28 [paypalipn.php] Sending IPN values:
+cmd=_notify-validate
+------------ IPN VALIDATION ----------
+02 Sep 2020 21:55:29 [paypalipn.php] IPN Post Response: INVALID
+
+----------- PAYER NOT VERIFIED -----------
+02 Sep 2020 21:55:29 [paypalipn.php] Payer is not verified. Please contactus@taskcontrol.net
+
+********************************** TX STARTING ******************************************
+02 Sep 2020 22:22:07 [paypalipn.php] Received IPN,  TX ID : 6ND96822YG403680G
+02 Sep 2020 22:22:07 [paypalipn.php] Sending IPN values:
+cmd=_notify-validate
+mc_gross=18.84
+protection_eligibility=Eligible
+payer_id=Q6ZN6ER7JDPBN
+payment_date=17%3A48%3A45+Aug+29%2C+2020+PDT
+payment_status=Completed
+charset=windows-1252
+first_name=Ana
+mc_fee=1.32
+notify_version=3.9
+custom=
+payer_status=verified
+business=payments%40goitglobal.com
+quantity=1
+verify_sign=AVHxj7k-Xpypp8v12SvaWZ13PVcbAWvBrubEimqQplChWmgqxZuh8tNz
+payer_email=analamprianos%40gmail.com
+txn_id=6ND96822YG403680G
+payment_type=instant
+last_name=Lamprianos
+receiver_email=payments%40taskcontrol.net
+payment_fee=1.32
+shipping_discount=0.00
+receiver_id=PK35JZ6FDXR3S
+insurance_amount=0.00
+txn_type=web_accept
+item_name=grupo-65378245
+discount=0.00
+mc_currency=USD
+item_number=190323316
+residence_country=AR
+shipping_method=Default
+transaction_subject=
+payment_gross=18.84
+ipn_track_id=a80ae05d11a0e
+------------ IPN VALIDATION ----------
+02 Sep 2020 22:22:08 [paypalipn.php] IPN Post Response: INVALID
+
+----------- PAYER NOT VERIFIED -----------
+02 Sep 2020 22:22:08 [paypalipn.php] Payer is not verified. Please contactus@taskcontrol.net
+
+********************************** TX STARTING ******************************************
+02 Sep 2020 23:03:11 [paypalipn.php] Received IPN,  TX ID : 4YB692830N911845P
+02 Sep 2020 23:03:11 [paypalipn.php] Sending IPN values:
+cmd=_notify-validate
+mc_gross=31.48
+protection_eligibility=Eligible
+payer_id=ERJAWBELU3H7G
+payment_date=18%3A24%3A24+Aug+29%2C+2020+PDT
+payment_status=Completed
+charset=windows-1252
+first_name=Luciano+Juan
+mc_fee=2.00
+notify_version=3.9
+custom=
+payer_status=unverified
+business=payments%40goitglobal.com
+quantity=1
+verify_sign=AotEJ8QE9z44XV8B5THRYFi9ExRkAGsLdMiJsfrVPRDZRbyl3fyVatmB
+payer_email=caceresluciano%40outlook.com
+txn_id=4YB692830N911845P
+payment_type=instant
+payer_business_name=Luciano
+last_name=Caceres+Almaraz
+receiver_email=payments%40taskcontrol.net
+payment_fee=2.00
+shipping_discount=0.00
+receiver_id=PK35JZ6FDXR3S
+insurance_amount=0.00
+txn_type=web_accept
+item_name=grupo-66176852
+discount=0.00
+mc_currency=USD
+item_number=190323160
+residence_country=AR
+shipping_method=
+transaction_subject=
+payment_gross=31.48
+ipn_track_id=47409acddbed2
+------------ IPN VALIDATION ----------
+02 Sep 2020 23:03:12 [paypalipn.php] IPN Post Response: INVALID
+
+----------- PAYER NOT VERIFIED -----------
+02 Sep 2020 23:03:12 [paypalipn.php] Payer is not verified. Please contactus@taskcontrol.net
+
+********************************** TX STARTING ******************************************
+02 Sep 2020 23:09:01 [paypalipn.php] Received IPN,  TX ID : 8Y5702914X5855626
+02 Sep 2020 23:09:01 [paypalipn.php] Sending IPN values:
+cmd=_notify-validate
+mc_gross=27.20
+protection_eligibility=Eligible
+payer_id=3ZCF7XNA66TMU
+payment_date=18%3A31%3A33+Aug+29%2C+2020+PDT
+payment_status=Completed
+charset=windows-1252
+first_name=Mario
+mc_fee=1.77
+notify_version=3.9
+custom=
+payer_status=verified
+business=payments%40goitglobal.com
+quantity=1
+verify_sign=AJSsme92t.S8uZs3df6XPsQxHDIiAY.pm33-xZiX9x1TBA5ADfRUA6KP
+payer_email=davidperez31099%40gmail.com
+txn_id=8Y5702914X5855626
+payment_type=instant
+last_name=Perez
+receiver_email=payments%40taskcontrol.net
+payment_fee=1.77
+shipping_discount=0.00
+receiver_id=PK35JZ6FDXR3S
+insurance_amount=0.00
+txn_type=web_accept
+item_name=grupo-106035784
+discount=0.00
+mc_currency=USD
+item_number=190322145
+residence_country=AR
+shipping_method=Default
+transaction_subject=
+payment_gross=27.20
+ipn_track_id=c0f2a8ce77d20
+------------ IPN VALIDATION ----------
+02 Sep 2020 23:09:02 [paypalipn.php] IPN Post Response: INVALID
+
+----------- PAYER NOT VERIFIED -----------
+02 Sep 2020 23:09:02 [paypalipn.php] Payer is not verified. Please contactus@taskcontrol.net
+
+********************************** TX STARTING ******************************************
+02 Sep 2020 23:19:57 [paypalipn.php] Received IPN,  TX ID : 37V9291567743244J
+02 Sep 2020 23:19:57 [paypalipn.php] Sending IPN values:
+cmd=_notify-validate
+mc_gross=-50.00
+protection_eligibility=Eligible
+payer_id=MRBTXSDV2QR4E
+payment_date=18%3A49%3A17+Aug+30%2C+2020+PDT
+payment_status=Refunded
+charset=windows-1252
+first_name=Douglas
+mc_fee=-3.00
+notify_version=3.9
+reason_code=refund
+custom=
+business=payments%40goitglobal.com
+verify_sign=AykrcaKqo9o9ZKpgMBSAphKkT9dCAyUGrZVwhZLasbEzOlk8zPlagWBt
+payer_email=peresartist%40gmail.com
+parent_txn_id=3ND95129UY029503B
+txn_id=37V9291567743244J
+payment_type=instant
+last_name=Lima+Peres
+receiver_email=payments%40taskcontrol.net
+payment_fee=-3.00
+shipping_discount=0.00
+receiver_id=PK35JZ6FDXR3S
+insurance_amount=0.00
+item_name=grupo-51762876
+discount=0.00
+mc_currency=USD
+item_number=190323075
+residence_country=AR
+handling_amount=0.00
+shipping_method=Default
+transaction_subject=
+payment_gross=-50.00
+shipping=0.00
+ipn_track_id=488fbf3360134
+------------ IPN VALIDATION ----------
+02 Sep 2020 23:19:58 [paypalipn.php] IPN Post Response: INVALID
+
+----------- PAYER NOT VERIFIED -----------
+02 Sep 2020 23:19:58 [paypalipn.php] Payer is not verified. Please contactus@taskcontrol.net
+
+********************************** TX STARTING ******************************************
+27 Sep 2020 12:28:02 [paypalipn.php] Received IPN,  TX ID : 627610643E3797407
+27 Sep 2020 12:28:02 [paypalipn.php] Sending IPN values:
+cmd=_notify-validate
+mc_gross=421.90
+protection_eligibility=Eligible
+payer_id=VYA2WWTYCPH74
+payment_date=05%3A27%3A49+Sep+27%2C+2020+PDT
+payment_status=Completed
+charset=windows-1252
+first_name=test
+mc_fee=12.54
+notify_version=3.9
+custom=
+payer_status=verified
+business=giangreco.roberto-facilitator%40gmail.com
+quantity=1
+verify_sign=A9md0q7TNhRJod8SW78ta67uRtRwAxGZIdQtdvrEtrCKxQltirWzT5oV
+payer_email=giangreco.roberto-buyer%40gmail.com
+txn_id=627610643E3797407
+payment_type=instant
+last_name=buyer
+receiver_email=giangreco.roberto-facilitator%40gmail.com
+payment_fee=12.54
+shipping_discount=0.00
+receiver_id=3CEERPQK4ACS2
+insurance_amount=0.00
+txn_type=web_accept
+item_name=Deposit+in+TaskControl+Wallet.+Username%3A+Demo2
+discount=0.00
+mc_currency=USD
+item_number=
+residence_country=US
+test_ipn=1
+shipping_method=Default
+transaction_subject=
+payment_gross=421.90
+ipn_track_id=92afd4466d877
+------------ IPN VALIDATION ----------
+27 Sep 2020 12:28:04 [paypalipn.php] IPN Post Response: VERIFIED
+
+---------- PAYER STATUS VALIDATION ----------
+27 Sep 2020 12:28:04 [paypalipn.php] Payer status = Verified OK
+
+-------- PAYMENT STATUS COMPLETED  ----------
+27 Sep 2020 12:28:04 [paypalipn.php] Payment Status: Completed OK
+
+27 Sep 2020 12:28:04 [paypalipn.php] Genera recibo y manda .pdf
+********************************** TX STARTING ******************************************
+12 Oct 2020 23:55:26 [paypalipn.php] Received IPN,  TX ID : 6TC17629BB5319920
+12 Oct 2020 23:55:26 [paypalipn.php] Sending IPN values:
+cmd=_notify-validate
+mc_gross=54.40
+protection_eligibility=Eligible
+payer_id=2YPSFGLNTFPJG
+payment_date=16%3A55%3A28+Oct+12%2C+2020+PDT
+payment_status=Completed
+charset=windows-1252
+first_name=Adri%E1n
+mc_fee=3.24
+notify_version=3.9
+custom=
+payer_status=verified
+business=payments%40goitglobal.com
+quantity=1
+verify_sign=AnF.C-.WL4NxwXq7ALb2QHPzGhJkAZ.ZSuPPvwal4ttUUPegNrK0ezic
+payer_email=ing.adrian.velazquez%40gmail.com
+txn_id=6TC17629BB5319920
+payment_type=instant
+last_name=Vel%E1zquez
+receiver_email=payments%40taskcontrol.net
+payment_fee=3.24
+shipping_discount=0.00
+receiver_id=PK35JZ6FDXR3S
+insurance_amount=0.00
+txn_type=web_accept
+item_name=grupo-40228705
+discount=0.00
+mc_currency=USD
+item_number=190391810
+residence_country=AR
+shipping_method=Default
+transaction_subject=
+payment_gross=54.40
+ipn_track_id=24a463497a6b5
+------------ IPN VALIDATION ----------
+12 Oct 2020 23:55:27 [paypalipn.php] IPN Post Response: INVALID
+
+----------- PAYER NOT VERIFIED -----------
+12 Oct 2020 23:55:27 [paypalipn.php] Payer is not verified. Please contactus@taskcontrol.net
+
+********************************** TX STARTING ******************************************
+20 Oct 2020 16:27:59 [paypalipn.php] Received IPN,  TX ID : 01R80455MW4127800
+20 Oct 2020 16:27:59 [paypalipn.php] Sending IPN values:
+cmd=_notify-validate
+mc_gross=38.11
+protection_eligibility=Eligible
+payer_id=LEN56RGE9UJTU
+payment_date=09%3A27%3A54+Oct+20%2C+2020+PDT
+payment_status=Completed
+charset=windows-1252
+first_name=Stephany
+mc_fee=2.36
+notify_version=3.9
+custom=
+payer_status=unverified
+business=payments%40goitglobal.com
+quantity=1
+verify_sign=A-Q4b.9r7Q.SSxzmgBJL.67Ff.LPAHe1AKevG.BDz4DekCCIn40.T0lR
+payer_email=Babystephmm%40gmail.com
+txn_id=01R80455MW4127800
+payment_type=instant
+last_name=Mejias
+receiver_email=payments%40taskcontrol.net
+payment_fee=2.36
+shipping_discount=0.00
+receiver_id=PK35JZ6FDXR3S
+insurance_amount=0.00
+txn_type=web_accept
+item_name=grupo-19874218
+discount=0.00
+mc_currency=USD
+item_number=190403213
+residence_country=AR
+shipping_method=Default
+transaction_subject=
+payment_gross=38.11
+ipn_track_id=aafd08dd76dc9
+------------ IPN VALIDATION ----------
+20 Oct 2020 16:28:01 [paypalipn.php] IPN Post Response: INVALID
+
+----------- PAYER NOT VERIFIED -----------
+20 Oct 2020 16:28:01 [paypalipn.php] Payer is not verified. Please contactus@taskcontrol.net
+
+********************************** TX STARTING ******************************************
+20 Oct 2020 22:41:09 [paypalipn.php] Received IPN,  TX ID : 8MT47541P7401551J
+20 Oct 2020 22:41:09 [paypalipn.php] Sending IPN values:
+cmd=_notify-validate
+mc_gross=112.21
+protection_eligibility=Eligible
+payer_id=GT853RNXAD6SE
+payment_date=07%3A16%3A14+Oct+20%2C+2020+PDT
+payment_status=Completed
+charset=windows-1252
+first_name=Gabriela
+mc_fee=6.36
+notify_version=3.9
+custom=
+payer_status=unverified
+business=payments%40goitglobal.com
+quantity=1
+verify_sign=A4gtihUYq881YD9X8B8CJJUeKm7rAGbg94Ny03YpuuHWhLMIxS7Gkxa1
+payer_email=glalli077%40gmail.com
+txn_id=8MT47541P7401551J
+payment_type=instant
+last_name=Lalli
+receiver_email=payments%40taskcontrol.net
+payment_fee=6.36
+shipping_discount=0.00
+receiver_id=PK35JZ6FDXR3S
+insurance_amount=0.00
+txn_type=web_accept
+item_name=grupo-66752046
+discount=0.00
+mc_currency=USD
+item_number=190403397
+residence_country=AR
+shipping_method=Default
+transaction_subject=
+payment_gross=112.21
+ipn_track_id=1bdc82a175659
+------------ IPN VALIDATION ----------
+20 Oct 2020 22:41:11 [paypalipn.php] IPN Post Response: INVALID
+
+----------- PAYER NOT VERIFIED -----------
+20 Oct 2020 22:41:11 [paypalipn.php] Payer is not verified. Please contactus@taskcontrol.net
+
+********************************** TX STARTING ******************************************
+10 Nov 2020 22:24:49 [paypalipn.php] Received IPN,  TX ID : 83Y65615LY7601743
+10 Nov 2020 22:24:49 [paypalipn.php] Sending IPN values:
+cmd=_notify-validate
+mc_gross=15.00
+protection_eligibility=Eligible
+payer_id=KER2DVLEXJXV8
+payment_date=14%3A24%3A46+Nov+10%2C+2020+PST
+payment_status=Completed
+charset=windows-1252
+first_name=Darwin
+mc_fee=1.11
+notify_version=3.9
+custom=
+payer_status=unverified
+business=payments%40taskcontrol.net
+quantity=1
+verify_sign=AKGVTRCiDLYDx.qsTTwdGpz9eDgQABjvxLaoyF6.RUTZfKRIXp1ycCjZ
+payer_email=darwinleonardo11%40gmail.com
+txn_id=83Y65615LY7601743
+payment_type=instant
+last_name=Castaneda
+receiver_email=payments%40taskcontrol.net
+payment_fee=1.11
+shipping_discount=0.00
+receiver_id=PK35JZ6FDXR3S
+insurance_amount=0.00
+txn_type=web_accept
+item_name=Item-61917774
+discount=0.00
+mc_currency=USD
+item_number=190441938
+residence_country=US
+shipping_method=Default
+transaction_subject=
+payment_gross=15.00
+ipn_track_id=55a9f5d170b9b
+------------ IPN VALIDATION ----------
+10 Nov 2020 22:24:51 [paypalipn.php] IPN Post Response: INVALID
+
+----------- PAYER NOT VERIFIED -----------
+10 Nov 2020 22:24:51 [paypalipn.php] Payer is not verified. Please contactus@taskcontrol.net
+
+********************************** TX STARTING ******************************************
+10 Nov 2020 22:24:52 [paypalipn.php] Received IPN,  TX ID : 83Y65615LY7601743
+10 Nov 2020 22:24:52 [paypalipn.php] Sending IPN values:
+cmd=_notify-validate
+mc_gross=15.00
+protection_eligibility=Eligible
+payer_id=KER2DVLEXJXV8
+payment_date=14%3A24%3A46+Nov+10%2C+2020+PST
+payment_status=Completed
+charset=windows-1252
+first_name=Darwin
+mc_fee=1.11
+notify_version=3.9
+custom=
+payer_status=unverified
+business=payments%40taskcontrol.net
+quantity=1
+verify_sign=AKGVTRCiDLYDx.qsTTwdGpz9eDgQABjvxLaoyF6.RUTZfKRIXp1ycCjZ
+payer_email=darwinleonardo11%40gmail.com
+txn_id=83Y65615LY7601743
+payment_type=instant
+last_name=Castaneda
+receiver_email=payments%40taskcontrol.net
+payment_fee=1.11
+shipping_discount=0.00
+receiver_id=PK35JZ6FDXR3S
+insurance_amount=0.00
+txn_type=web_accept
+item_name=Item-61917774
+discount=0.00
+mc_currency=USD
+item_number=190441938
+residence_country=US
+shipping_method=Default
+transaction_subject=
+payment_gross=15.00
+ipn_track_id=55a9f5d170b9b
+------------ IPN VALIDATION ----------
+10 Nov 2020 22:24:53 [paypalipn.php] IPN Post Response: INVALID
+
+----------- PAYER NOT VERIFIED -----------
+10 Nov 2020 22:24:53 [paypalipn.php] Payer is not verified. Please contactus@taskcontrol.net
+
+********************************** TX STARTING ******************************************
+10 Nov 2020 22:56:47 [paypalipn.php] Received IPN,  TX ID : 5PL772773A0997355
+10 Nov 2020 22:56:47 [paypalipn.php] Sending IPN values:
+cmd=_notify-validate
+mc_gross=12.59
+protection_eligibility=Ineligible
+payer_id=VU2V5EZ7E7TL2
+payment_date=14%3A56%3A49+Nov+10%2C+2020+PST
+payment_status=Pending
+charset=windows-1252
+first_name=Martina
+mc_fee=0.98
+notify_version=3.9
+custom=
+payer_status=unverified
+business=payments%40taskcontrol.net
+quantity=1
+verify_sign=AWaf2f983V.SBQHXdkCPfs18jyVpA35uwt3Ob5FpnuLYEkAea8fFD.uI
+payer_email=florbrassesco01%40gmail.com
+txn_id=5PL772773A0997355
+payment_type=instant
+last_name=Brassesco
+receiver_email=payments%40taskcontrol.net
+payment_fee=0.98
+shipping_discount=0.00
+receiver_id=PK35JZ6FDXR3S
+pending_reason=paymentreview
+insurance_amount=0.00
+txn_type=web_accept
+item_name=Item-22074367
+discount=0.00
+mc_currency=USD
+item_number=190442252
+residence_country=AR
+shipping_method=Default
+transaction_subject=
+payment_gross=12.59
+ipn_track_id=b4a1d6d91a122
+------------ IPN VALIDATION ----------
+10 Nov 2020 22:56:52 [paypalipn.php] IPN Post Response: INVALID
+
+----------- PAYER NOT VERIFIED -----------
+10 Nov 2020 22:56:52 [paypalipn.php] Payer is not verified. Please contactus@taskcontrol.net
+
+********************************** TX STARTING ******************************************
+10 Nov 2020 23:24:31 [paypalipn.php] Received IPN,  TX ID : 0SJ303831H569052N
+10 Nov 2020 23:24:31 [paypalipn.php] Sending IPN values:
+cmd=_notify-validate
+mc_gross=18.63
+protection_eligibility=Eligible
+payer_id=T9K5VDQ38QNZ8
+payment_date=15%3A24%3A33+Nov+10%2C+2020+PST
+payment_status=Completed
+charset=windows-1252
+first_name=Pablo
+mc_fee=1.31
+notify_version=3.9
+custom=
+payer_status=unverified
+business=payments%40taskcontrol.net
+quantity=1
+verify_sign=AXD2H7YLacgJvlUVv8QIbyV7zqP5AjbD3HYT2PlnUbmf59oMKtn-wdIB
+payer_email=pdelacruz74%40yahoo.com.ar
+txn_id=0SJ303831H569052N
+payment_type=instant
+last_name=Martin+Gomez
+receiver_email=payments%40taskcontrol.net
+payment_fee=1.31
+shipping_discount=0.00
+receiver_id=PK35JZ6FDXR3S
+insurance_amount=0.00
+txn_type=web_accept
+item_name=Item-19815841
+discount=0.00
+mc_currency=USD
+item_number=190440095
+residence_country=AR
+shipping_method=Default
+transaction_subject=
+payment_gross=18.63
+ipn_track_id=2187a067eea1c
+------------ IPN VALIDATION ----------
+10 Nov 2020 23:24:33 [paypalipn.php] IPN Post Response: INVALID
+
+----------- PAYER NOT VERIFIED -----------
+10 Nov 2020 23:24:33 [paypalipn.php] Payer is not verified. Please contactus@taskcontrol.net
+
+********************************** TX STARTING ******************************************
+11 Nov 2020 07:42:50 [paypalipn.php] IPN Listener received an HTTP request without a Transaction ID.
+11 Nov 2020 07:42:50 [paypalipn.php] Sending IPN values:
+cmd=_notify-validate
+------------ IPN VALIDATION ----------
+11 Nov 2020 07:42:51 [paypalipn.php] IPN Post Response: INVALID
+
+----------- PAYER NOT VERIFIED -----------
+11 Nov 2020 07:42:51 [paypalipn.php] Payer is not verified. Please contactus@taskcontrol.net
+
+********************************** TX STARTING ******************************************
+11 Nov 2020 07:43:00 [paypalipn.php] IPN Listener received an HTTP request without a Transaction ID.
+11 Nov 2020 07:43:00 [paypalipn.php] Sending IPN values:
+cmd=_notify-validate
+------------ IPN VALIDATION ----------
+11 Nov 2020 07:43:01 [paypalipn.php] IPN Post Response: INVALID
+
+----------- PAYER NOT VERIFIED -----------
+11 Nov 2020 07:43:01 [paypalipn.php] Payer is not verified. Please contactus@taskcontrol.net
+
+********************************** TX STARTING ******************************************
+11 Nov 2020 12:07:19 [paypalipn.php] Received IPN,  TX ID : 2K262836T35853321
+11 Nov 2020 12:07:19 [paypalipn.php] Sending IPN values:
+cmd=_notify-validate
+mc_gross=28.88
+protection_eligibility=Eligible
+payer_id=SCL7R5KBNYM9N
+payment_date=04%3A07%3A19+Nov+11%2C+2020+PST
+payment_status=Completed
+charset=windows-1252
+first_name=Madeleine
+mc_fee=1.86
+notify_version=3.9
+custom=
+payer_status=verified
+business=payments%40taskcontrol.net
+quantity=1
+verify_sign=AoAC3ofyfNl18tZShc.UtcsvhlAKAu8xaIuoFsDfg06vS0xrLLp..EEK
+payer_email=linaresmadeleine1304%40gmail.com
+txn_id=2K262836T35853321
+payment_type=instant
+last_name=Linares+Diaz
+receiver_email=payments%40taskcontrol.net
+payment_fee=1.86
+shipping_discount=0.00
+receiver_id=PK35JZ6FDXR3S
+insurance_amount=0.00
+txn_type=web_accept
+item_name=Item-111760363
+discount=0.00
+mc_currency=USD
+item_number=190442981
+residence_country=AR
+shipping_method=Default
+transaction_subject=
+payment_gross=28.88
+ipn_track_id=9e8c4a697e23b
+------------ IPN VALIDATION ----------
+11 Nov 2020 12:07:21 [paypalipn.php] IPN Post Response: INVALID
+
+----------- PAYER NOT VERIFIED -----------
+11 Nov 2020 12:07:21 [paypalipn.php] Payer is not verified. Please contactus@taskcontrol.net
+
+********************************** TX STARTING ******************************************
+11 Nov 2020 12:07:22 [paypalipn.php] Received IPN,  TX ID : 2K262836T35853321
+11 Nov 2020 12:07:22 [paypalipn.php] Sending IPN values:
+cmd=_notify-validate
+mc_gross=28.88
+protection_eligibility=Eligible
+payer_id=SCL7R5KBNYM9N
+payment_date=04%3A07%3A19+Nov+11%2C+2020+PST
+payment_status=Completed
+charset=windows-1252
+first_name=Madeleine
+mc_fee=1.86
+notify_version=3.9
+custom=
+payer_status=verified
+business=payments%40taskcontrol.net
+quantity=1
+verify_sign=AoAC3ofyfNl18tZShc.UtcsvhlAKAu8xaIuoFsDfg06vS0xrLLp..EEK
+payer_email=linaresmadeleine1304%40gmail.com
+txn_id=2K262836T35853321
+payment_type=instant
+last_name=Linares+Diaz
+receiver_email=payments%40taskcontrol.net
+payment_fee=1.86
+shipping_discount=0.00
+receiver_id=PK35JZ6FDXR3S
+insurance_amount=0.00
+txn_type=web_accept
+item_name=Item-111760363
+discount=0.00
+mc_currency=USD
+item_number=190442981
+residence_country=AR
+shipping_method=Default
+transaction_subject=
+payment_gross=28.88
+ipn_track_id=9e8c4a697e23b
+------------ IPN VALIDATION ----------
+11 Nov 2020 12:07:23 [paypalipn.php] IPN Post Response: INVALID
+
+----------- PAYER NOT VERIFIED -----------
+11 Nov 2020 12:07:23 [paypalipn.php] Payer is not verified. Please contactus@taskcontrol.net
+
+********************************** TX STARTING ******************************************
+11 Nov 2020 12:42:06 [paypalipn.php] Received IPN,  TX ID : 4AL36799TB2493221
+11 Nov 2020 12:42:06 [paypalipn.php] Sending IPN values:
+cmd=_notify-validate
+transaction_subject=
+payment_date=04%3A42%3A07+Nov+11%2C+2020+PST
+txn_type=send_money
+last_name=Ram%EDrez
+residence_country=AR
+pending_reason=paymentreview
+payment_gross=4.76
+mc_currency=USD
+business=payments%40taskcontrol.net
+payment_type=instant
+protection_eligibility=Ineligible
+verify_sign=AGj3WzqbfPe2wWwPSkhszUcsdCbGAg.2w.-PeYzdXhIWOCUr69P6vbEH
+payer_status=unverified
+payer_email=minecraftpvp01501%40gmail.com
+txn_id=4AL36799TB2493221
+receiver_email=payments%40taskcontrol.net
+first_name=Elias
+payer_id=VTBUYQB6FP5ZG
+receiver_id=PK35JZ6FDXR3S
+memo=Solicitud+de+saldo
+payment_status=Pending
+payment_fee=0.56
+mc_fee=0.56
+mc_gross=4.76
+charset=windows-1252
+notify_version=3.9
+ipn_track_id=fcd2824a6fa68
+------------ IPN VALIDATION ----------
+11 Nov 2020 12:42:08 [paypalipn.php] IPN Post Response: INVALID
+
+----------- PAYER NOT VERIFIED -----------
+11 Nov 2020 12:42:08 [paypalipn.php] Payer is not verified. Please contactus@taskcontrol.net
+
+********************************** TX STARTING ******************************************
+11 Nov 2020 13:29:17 [paypalipn.php] Received IPN,  TX ID : 0GC45416BU6046640
+11 Nov 2020 13:29:17 [paypalipn.php] Sending IPN values:
+cmd=_notify-validate
+mc_gross=30.72
+protection_eligibility=Eligible
+payer_id=KZXND9Q8EJK5W
+payment_date=05%3A29%3A18+Nov+11%2C+2020+PST
+payment_status=Completed
+charset=windows-1252
+first_name=Marisa
+mc_fee=1.96
+notify_version=3.9
+custom=
+payer_status=unverified
+business=payments%40taskcontrol.net
+quantity=1
+verify_sign=APLSdHau.5s4BdBd9.ptyo5-pRkjAoJwIQfjeMUb.f8tPljlWTksHBGn
+payer_email=marisainesgonzalez%40gmail.com
+txn_id=0GC45416BU6046640
+payment_type=instant
+last_name=Gonzalez
+receiver_email=payments%40taskcontrol.net
+payment_fee=1.96
+shipping_discount=0.00
+receiver_id=PK35JZ6FDXR3S
+insurance_amount=0.00
+txn_type=web_accept
+item_name=Item-16649133
+discount=0.00
+mc_currency=USD
+item_number=190443154
+residence_country=AR
+shipping_method=Default
+transaction_subject=
+payment_gross=30.72
+ipn_track_id=b14c3e6f25ce8
+------------ IPN VALIDATION ----------
+11 Nov 2020 13:29:18 [paypalipn.php] IPN Post Response: INVALID
+
+----------- PAYER NOT VERIFIED -----------
+11 Nov 2020 13:29:18 [paypalipn.php] Payer is not verified. Please contactus@taskcontrol.net
+
+********************************** TX STARTING ******************************************
+11 Nov 2020 22:56:52 [paypalipn.php] Received IPN,  TX ID : 5PL772773A0997355
+11 Nov 2020 22:56:52 [paypalipn.php] Sending IPN values:
+cmd=_notify-validate
+mc_gross=12.59
+protection_eligibility=Eligible
+payer_id=VU2V5EZ7E7TL2
+tax=0.00
+payment_date=14%3A56%3A49+Nov+10%2C+2020+PST
+payment_status=Completed
+charset=windows-1252
+first_name=Martina
+mc_fee=0.98
+notify_version=3.9
+custom=
+payer_status=unverified
+business=payments%40taskcontrol.net
+quantity=1
+verify_sign=AWlcuw3qsFkbIYzslMkRL5Sq2F7sAA1Kgul2o8ZnDUkkwF349I0RNEoa
+payer_email=florbrassesco01%40gmail.com
+txn_id=5PL772773A0997355
+payment_type=instant
+last_name=Brassesco
+receiver_email=payments%40taskcontrol.net
+payment_fee=0.98
+shipping_discount=0.00
+insurance_amount=0.00
+receiver_id=PK35JZ6FDXR3S
+txn_type=web_accept
+item_name=Item-22074367
+discount=0.00
+mc_currency=USD
+item_number=190442252
+residence_country=AR
+handling_amount=0.00
+shipping_method=Default
+transaction_subject=
+payment_gross=12.59
+shipping=0.00
+ipn_track_id=2c646a41e6279
+------------ IPN VALIDATION ----------
+11 Nov 2020 22:56:54 [paypalipn.php] IPN Post Response: INVALID
+
+----------- PAYER NOT VERIFIED -----------
+11 Nov 2020 22:56:54 [paypalipn.php] Payer is not verified. Please contactus@taskcontrol.net
+
+********************************** TX STARTING ******************************************
+11 Nov 2020 22:56:54 [paypalipn.php] Received IPN,  TX ID : 5PL772773A0997355
+11 Nov 2020 22:56:54 [paypalipn.php] Sending IPN values:
+cmd=_notify-validate
+mc_gross=12.59
+protection_eligibility=Eligible
+payer_id=VU2V5EZ7E7TL2
+tax=0.00
+payment_date=14%3A56%3A49+Nov+10%2C+2020+PST
+payment_status=Completed
+charset=windows-1252
+first_name=Martina
+mc_fee=0.98
+notify_version=3.9
+custom=
+payer_status=unverified
+business=payments%40taskcontrol.net
+quantity=1
+verify_sign=AWlcuw3qsFkbIYzslMkRL5Sq2F7sAA1Kgul2o8ZnDUkkwF349I0RNEoa
+payer_email=florbrassesco01%40gmail.com
+txn_id=5PL772773A0997355
+payment_type=instant
+last_name=Brassesco
+receiver_email=payments%40taskcontrol.net
+payment_fee=0.98
+shipping_discount=0.00
+insurance_amount=0.00
+receiver_id=PK35JZ6FDXR3S
+txn_type=web_accept
+item_name=Item-22074367
+discount=0.00
+mc_currency=USD
+item_number=190442252
+residence_country=AR
+handling_amount=0.00
+shipping_method=Default
+transaction_subject=
+payment_gross=12.59
+shipping=0.00
+ipn_track_id=2c646a41e6279
+------------ IPN VALIDATION ----------
+11 Nov 2020 22:56:57 [paypalipn.php] IPN Post Response: INVALID
+
+----------- PAYER NOT VERIFIED -----------
+11 Nov 2020 22:56:57 [paypalipn.php] Payer is not verified. Please contactus@taskcontrol.net
+
+********************************** TX STARTING ******************************************
+12 Nov 2020 12:42:11 [paypalipn.php] Received IPN,  TX ID : 4AL36799TB2493221
+12 Nov 2020 12:42:11 [paypalipn.php] Sending IPN values:
+cmd=_notify-validate
+transaction_subject=
+payment_date=04%3A42%3A07+Nov+11%2C+2020+PST
+txn_type=send_money
+last_name=Ram%EDrez
+residence_country=AR
+payment_gross=4.76
+mc_currency=USD
+business=payments%40taskcontrol.net
+payment_type=instant
+protection_eligibility=Eligible
+verify_sign=A3ZvRt6h92yDknX3q4opF9Gbcu.GAK5wXWIFQx51O4IHCNnAlzglFbK2
+payer_status=unverified
+payer_email=minecraftpvp01501%40gmail.com
+txn_id=4AL36799TB2493221
+receiver_email=payments%40taskcontrol.net
+first_name=Elias
+payer_id=VTBUYQB6FP5ZG
+receiver_id=PK35JZ6FDXR3S
+memo=Solicitud+de+saldo
+payment_status=Completed
+payment_fee=0.56
+mc_fee=0.56
+mc_gross=4.76
+charset=windows-1252
+notify_version=3.9
+ipn_track_id=43f7b94b55b80
+------------ IPN VALIDATION ----------
+12 Nov 2020 12:42:13 [paypalipn.php] IPN Post Response: INVALID
+
+----------- PAYER NOT VERIFIED -----------
+12 Nov 2020 12:42:13 [paypalipn.php] Payer is not verified. Please contactus@taskcontrol.net
+
+********************************** TX STARTING ******************************************
+12 Nov 2020 12:42:14 [paypalipn.php] Received IPN,  TX ID : 4AL36799TB2493221
+12 Nov 2020 12:42:14 [paypalipn.php] Sending IPN values:
+cmd=_notify-validate
+transaction_subject=
+payment_date=04%3A42%3A07+Nov+11%2C+2020+PST
+txn_type=send_money
+last_name=Ram%EDrez
+residence_country=AR
+payment_gross=4.76
+mc_currency=USD
+business=payments%40taskcontrol.net
+payment_type=instant
+protection_eligibility=Eligible
+verify_sign=A3ZvRt6h92yDknX3q4opF9Gbcu.GAK5wXWIFQx51O4IHCNnAlzglFbK2
+payer_status=unverified
+payer_email=minecraftpvp01501%40gmail.com
+txn_id=4AL36799TB2493221
+receiver_email=payments%40taskcontrol.net
+first_name=Elias
+payer_id=VTBUYQB6FP5ZG
+receiver_id=PK35JZ6FDXR3S
+memo=Solicitud+de+saldo
+payment_status=Completed
+payment_fee=0.56
+mc_fee=0.56
+mc_gross=4.76
+charset=windows-1252
+notify_version=3.9
+ipn_track_id=43f7b94b55b80
+------------ IPN VALIDATION ----------
+12 Nov 2020 12:42:15 [paypalipn.php] IPN Post Response: INVALID
+
+----------- PAYER NOT VERIFIED -----------
+12 Nov 2020 12:42:15 [paypalipn.php] Payer is not verified. Please contactus@taskcontrol.net
+

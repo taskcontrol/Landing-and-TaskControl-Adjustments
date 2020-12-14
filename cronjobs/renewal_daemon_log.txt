@@ -1,0 +1,214 @@
+------------------------------------
+02 Jul 2020 21:45:29 [renewals_check.php] Renewal Check Daemon Started
+02 Jul 2020 21:45:29 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+12 Oct 2020 12:27:25 [renewals_check.php] Renewal Check Daemon Started
+12 Oct 2020 12:27:25 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+12 Oct 2020 12:47:08 [renewals_check.php] Renewal Check Daemon Started
+12 Oct 2020 12:47:08 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+12 Oct 2020 12:49:25 [renewals_check.php] Renewal Check Daemon Started
+12 Oct 2020 12:49:25 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+12 Oct 2020 12:52:30 [renewals_check.php] Renewal Check Daemon Started
+12 Oct 2020 12:52:30 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+28 Oct 2020 00:00:03 [renewals_check.php] Renewal Check Daemon Started
+28 Oct 2020 00:00:04 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+29 Oct 2020 00:00:03 [renewals_check.php] Renewal Check Daemon Started
+BEFORE RENEWAL User: Demo1. Plan: STARTER, Up to 5 Users, Unlimited Projects, 60 GB, 3 TB Transfer. Expiring: 2020-10-27
+AFTER RENEWAL User: Demo1. Plan: STARTER, Up to 5 Users, Unlimited Projects, 60 GB, 3 TB Transfer. Expiring: 2020-11-28
+29 Oct 2020 00:00:05 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+30 Oct 2020 00:00:05 [renewals_check.php] Renewal Check Daemon Started
+30 Oct 2020 00:00:06 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+31 Oct 2020 00:00:04 [renewals_check.php] Renewal Check Daemon Started
+31 Oct 2020 00:00:04 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+01 Nov 2020 00:00:06 [renewals_check.php] Renewal Check Daemon Started
+01 Nov 2020 00:00:06 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+02 Nov 2020 00:00:13 [renewals_check.php] Renewal Check Daemon Started
+02 Nov 2020 00:00:13 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+03 Nov 2020 00:00:02 [renewals_check.php] Renewal Check Daemon Started
+03 Nov 2020 00:00:02 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+04 Nov 2020 00:00:02 [renewals_check.php] Renewal Check Daemon Started
+04 Nov 2020 00:00:02 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+05 Nov 2020 00:00:04 [renewals_check.php] Renewal Check Daemon Started
+05 Nov 2020 00:00:04 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+06 Nov 2020 00:00:03 [renewals_check.php] Renewal Check Daemon Started
+06 Nov 2020 00:00:03 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+07 Nov 2020 00:00:02 [renewals_check.php] Renewal Check Daemon Started
+07 Nov 2020 00:00:02 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+08 Nov 2020 00:00:03 [renewals_check.php] Renewal Check Daemon Started
+08 Nov 2020 00:00:03 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+09 Nov 2020 00:00:04 [renewals_check.php] Renewal Check Daemon Started
+09 Nov 2020 00:00:04 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+10 Nov 2020 00:00:04 [renewals_check.php] Renewal Check Daemon Started
+10 Nov 2020 00:00:04 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+11 Nov 2020 00:00:03 [renewals_check.php] Renewal Check Daemon Started
+11 Nov 2020 00:00:03 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+12 Nov 2020 00:00:10 [renewals_check.php] Renewal Check Daemon Started
+12 Nov 2020 00:00:10 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+13 Nov 2020 00:00:03 [renewals_check.php] Renewal Check Daemon Started
+13 Nov 2020 00:00:03 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+14 Nov 2020 00:00:02 [renewals_check.php] Renewal Check Daemon Started
+14 Nov 2020 00:00:02 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+15 Nov 2020 00:00:03 [renewals_check.php] Renewal Check Daemon Started
+15 Nov 2020 00:00:04 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+16 Nov 2020 00:00:04 [renewals_check.php] Renewal Check Daemon Started
+16 Nov 2020 00:00:04 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+17 Nov 2020 00:00:04 [renewals_check.php] Renewal Check Daemon Started
+17 Nov 2020 00:00:04 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+18 Nov 2020 00:00:02 [renewals_check.php] Renewal Check Daemon Started
+18 Nov 2020 00:00:02 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+19 Nov 2020 00:00:02 [renewals_check.php] Renewal Check Daemon Started
+19 Nov 2020 00:00:02 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+20 Nov 2020 00:00:04 [renewals_check.php] Renewal Check Daemon Started
+20 Nov 2020 00:00:04 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+21 Nov 2020 00:00:03 [renewals_check.php] Renewal Check Daemon Started
+21 Nov 2020 00:00:04 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+22 Nov 2020 00:00:04 [renewals_check.php] Renewal Check Daemon Started
+22 Nov 2020 00:00:04 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+23 Nov 2020 00:00:03 [renewals_check.php] Renewal Check Daemon Started
+23 Nov 2020 00:00:03 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+24 Nov 2020 00:00:03 [renewals_check.php] Renewal Check Daemon Started
+24 Nov 2020 00:00:03 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+25 Nov 2020 00:00:03 [renewals_check.php] Renewal Check Daemon Started
+25 Nov 2020 00:00:03 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+26 Nov 2020 00:00:02 [renewals_check.php] Renewal Check Daemon Started
+26 Nov 2020 00:00:02 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+27 Nov 2020 00:00:01 [renewals_check.php] Renewal Check Daemon Started
+27 Nov 2020 00:00:01 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+28 Nov 2020 00:00:02 [renewals_check.php] Renewal Check Daemon Started
+28 Nov 2020 00:00:02 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+29 Nov 2020 00:00:02 [renewals_check.php] Renewal Check Daemon Started
+29 Nov 2020 00:00:02 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+30 Nov 2020 00:00:02 [renewals_check.php] Renewal Check Daemon Started
+30 Nov 2020 00:00:02 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+01 Dec 2020 00:00:02 [renewals_check.php] Renewal Check Daemon Started
+01 Dec 2020 00:00:02 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+02 Dec 2020 00:00:02 [renewals_check.php] Renewal Check Daemon Started
+02 Dec 2020 00:00:02 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+03 Dec 2020 00:00:02 [renewals_check.php] Renewal Check Daemon Started
+03 Dec 2020 00:00:02 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+04 Dec 2020 00:00:03 [renewals_check.php] Renewal Check Daemon Started
+04 Dec 2020 00:00:03 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+05 Dec 2020 00:00:02 [renewals_check.php] Renewal Check Daemon Started
+05 Dec 2020 00:00:02 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+06 Dec 2020 00:00:02 [renewals_check.php] Renewal Check Daemon Started
+06 Dec 2020 00:00:02 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+07 Dec 2020 00:00:02 [renewals_check.php] Renewal Check Daemon Started
+07 Dec 2020 00:00:02 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+08 Dec 2020 00:00:03 [renewals_check.php] Renewal Check Daemon Started
+08 Dec 2020 00:00:03 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+09 Dec 2020 00:00:01 [renewals_check.php] Renewal Check Daemon Started
+09 Dec 2020 00:00:01 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+10 Dec 2020 00:00:02 [renewals_check.php] Renewal Check Daemon Started
+10 Dec 2020 00:00:02 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+11 Dec 2020 00:00:02 [renewals_check.php] Renewal Check Daemon Started
+11 Dec 2020 00:00:02 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+12 Dec 2020 00:00:02 [renewals_check.php] Renewal Check Daemon Started
+12 Dec 2020 00:00:02 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+13 Dec 2020 00:00:04 [renewals_check.php] Renewal Check Daemon Started
+13 Dec 2020 00:00:04 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+14 Dec 2020 00:00:03 [renewals_check.php] Renewal Check Daemon Started
+14 Dec 2020 00:00:04 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------

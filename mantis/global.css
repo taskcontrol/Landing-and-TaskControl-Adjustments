@@ -1,0 +1,9 @@
+.white-blogpage {
+    padding: 40px 20px 40px;
+    display: flex;
+    flex-direction: column;
+}
+
+div#powered-by-mantisbt-logo{
+height:100%;
+}

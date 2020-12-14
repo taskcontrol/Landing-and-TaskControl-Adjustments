@@ -1,0 +1,8 @@
+------------------------------------
+25 Jun 2020 23:45:47 [renewals_check.php] Renewal Check Daemon Started
+25 Jun 2020 23:45:47 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
+------------------------------------
+25 Jun 2020 23:50:35 [renewals_check.php] Renewal Check Daemon Started
+25 Jun 2020 23:50:35 [renewals_check.php] Renewal Daemon Executed Succesfully
+------------------------------------
