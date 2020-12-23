@@ -3,3 +3,6 @@
 /images/
 /img/
 /provisioning/
+provisioning/
+/.well-known/
+/admin/templates_c/
