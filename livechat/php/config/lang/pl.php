@@ -55,7 +55,7 @@ return array(
 
     // Panel administracyjny
 
-    'app.name' => 'PHP Live Chat Pro',
+    'app.name' => 'TaskControl Live Chat',
 
     'login.title' => 'Logowanie',
     'login.intro' => 'Zaloguj się korzystając z poniższego formularza',

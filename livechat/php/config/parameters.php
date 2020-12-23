@@ -7,7 +7,7 @@ return array (
   'dbPassword' => 'taskcontrol2019!!',
   'dbName' => 'c1bairesda_chat_pro',
   'superUser' => 'admin',
-  'superPass' => 'admin',
+  'superPass' => 'w2WK7Wxt0GZ5',
   'services' => 
   array (
     'verify' => 

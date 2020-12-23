@@ -55,7 +55,7 @@ return array(
 
     // Administration side
 
-    'app.name' => 'PHP Live Chat Pro',
+    'app.name' => 'TaskControl Live Chat',
 
     'login.title' => 'Login',
     'login.intro' => 'Please login using the following form',

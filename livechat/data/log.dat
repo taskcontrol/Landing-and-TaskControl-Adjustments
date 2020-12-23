@@ -14,3 +14,5 @@ Application path: /livechat/php/app.php?upload-upload
 2020-10-25 11:07:09 Undefined index: files on line 172 in /var/www/clients/client1/web4/web/livechat/php/controller/UploadController.php
 Application path: /livechat/php/app.php?upload-upload
 2020-10-30 01:25:55 Undefined index: files on line 172 in /var/www/clients/client1/web4/web/livechat/php/controller/UploadController.php
+Application path: /livechat/php/app.php?upload-upload
+2020-12-18 00:52:55 Undefined index: files on line 172 in /var/www/clients/client1/web4/web/livechat/php/controller/UploadController.php

@@ -17,7 +17,7 @@
 		<meta name="title" content="{$Meta_Title}">
     	<meta name="description" content="{$Meta_Description}">
 	    <meta name="keywords" content="{$Meta_Keyword}">
-	    <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<!-- 	    <meta http-equiv="Content-Type" content="text/html; charset=windows-1252"> -->
 		
 		<!-- ==============================================
 		Favicons
@@ -32,33 +32,61 @@
 		CSS
 		=============================================== -->
         <!-- Style-->
-        <link href="/templates/css/style.css" rel="stylesheet" type="text/css" />
+        <link rel="preload" href="/templates/css/style.css" as="style">
+        <link href="/templates/css/style.css" rel="stylesheet" type="text/css" as="style" />
 		<!-- Vegas 2.2.1 CSS-->
-        <link href="/templates/js/vegas/vegas.css" rel="stylesheet" type="text/css" />
+		<link rel="preload" href="/templates/js/vegas/vegas.css" as="style">
+        <link href="/templates/js/vegas/vegas.css" rel="stylesheet" type="text/css" as="style" />
 				
+					    	    <!-- jQuery 2.1.4 -->
+<!--      <script src="/templates/js/jQuery-2.1.4.min.js" type="text/javascript"></script> -->
+      <script src="https://code.jquery.com/jquery-3.5.1.min.js" type="text/javascript"></script>
+      <script src="https://code.jquery.com/jquery-migrate-1.4.1.min.js"  type="text/javascript"></script>
 				
 		<!-- ==============================================
 		Feauture Detection
 		=============================================== -->
-		<script src="/templates/js/modernizr-custom.js"></script>
+<!-- 		<script src="/templates/js/modernizr-custom.js"></script> -->
 		
 	{section name=FileName loop=$JavaScript}
+        <link rel="preload" href="{$Templates_JS}{$JavaScript[FileName]}" as="script">
     	<script language="javascript" src="{$Templates_JS}{$JavaScript[FileName]}"></script>
 	{/section}
 	
-	<script type="text/javascript" src="/templates/js/jquery.js"></script>
+
+<!-- 	<script type="text/javascript" src="/templates/js/jquery.js"></script> -->
    	<script type="text/javascript" src="/templates/js/scripts.js"></script>
     	
     	
-    <script src="/templates/js/jquery-1.2.6.pack.js" type="text/javascript"></script>
+<!--     <script src="/templates/js/jquery-1.2.6.pack.js" type="text/javascript"></script> -->
 		 
 		 
- 	<script language="javascript" src="{$Templates_JS}validate.js"></script>
+<!--  	<script language="javascript" src="{$Templates_JS}validate.js"></script> -->
+ 	<script src="https://cdnjs.cloudflare.com/ajax/libs/validate-js/2.0.1/validate.min.js" integrity="sha512-8GLIg5ayTvD6F9ML/cSRMD19nHqaLPWxISikfc5hsMJyX7Pm+IIbHlhBDY2slGisYLBqiVNVll+71CYDD5RBqA==" crossorigin="anonymous"></script>
  	<script language="javascript" src="{$Templates_JS}functions.js"></script>
 	
     <script src="/jquery.flow.1.1.min.js" type="text/javascript"></script>
-    <script src="/paul.js" type="text/javascript"></script>
+    <script src="/templates/js/paul.js" type="text/javascript"></script>
 
+
+    
+
+     <!-- Bootstrap 3.3.6 JS -->
+<!--      <script src="/templates/js/bootstrap.min.js" type="text/javascript"></script> -->
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"  type="text/javascript" crossorigin="anonymous"></script>
+     <!-- Waypoints JS -->
+     <script src="/templates/js/waypoints.min.js" type="text/javascript"></script>
+<!--      <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"  type="text/javascript"></script> -->
+     <!-- Vegas 2.2.1 JS -->
+<!--      <script src="/templates/js/vegas/vegas.min.js"></script> -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vegas/2.2.0/vegas.min.js" integrity="sha512-6tNmZqGLfB1v/1kfNJqauApTO7gY0tG08zFXVyCV8f5cSzmFBhobIXzD39cM9QZXynMx/LcHcbuot6e+AMC2sg==" crossorigin="anonymous"></script>     <!-- Jquery Animate Numbers -->
+<!--      <script src="/templates/js/jquery.animateNumbers.js" type="text/javascript"></script>  -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-animateNumber/0.0.14/jquery.animateNumber.min.js" integrity="sha512-WY7Piz2TwYjkLlgxw9DONwf5ixUOBnL3Go+FSdqRxhKlOqx9F+ee/JsablX84YBPLQzUPJsZvV88s8YOJ4S/UA==" crossorigin="anonymous"></script>
+
+
+     <!-- Jquery Appear -->
+<!-- 	 <script  src="/templates/js/jquery.appear.js" type="text/javascript"></script> -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.appear/0.3.3/jquery.appear.min.js" integrity="sha512-gg3frgM3dCvlXWzJI5eeILHAh+10i7dhBFt8nXc6DUq0S0Xlv2CFvc29zK0M28Htw6RgBA0aaT15MbxZ/IhT1A==" crossorigin="anonymous"></script>
 
 		<!--[if lt IE 9]>
 		 <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -66,7 +94,7 @@
 	
 </head>
 
-<body class="greybg">
+<body class="greybg est">
 
 <!-- ==============================================
     Navbar
@@ -179,25 +207,13 @@
 		
 	</div>
 	
-	
-	    <!-- jQuery 2.1.4 -->
-     <script src="/templates/js/jQuery-2.1.4.min.js" type="text/javascript"></script>
-     <!-- Bootstrap 3.3.6 JS -->
-     <script src="/templates/js/bootstrap.min.js" type="text/javascript"></script>
-     <!-- Waypoints JS -->
-     <script src="/templates/js/waypoints.min.js" type="text/javascript"></script>
-     <!-- Vegas 2.2.1 JS -->
-     <script src="/templates/js/vegas/vegas.min.js"></script>
-     <!-- Jquery Animate Numbers -->
-     <script src="/templates/js/jquery.animateNumbers.js" type="text/javascript"></script> 
-     <!-- Jquery Flexslider -->
+	     <!-- Jquery Flexslider -->
      <script src="/templates/js/jquery.flexslider-min.js" type="text/javascript"></script>
      <!-- Kafe Flexslider -->
      <script src="/templates/js/kafe.flexslider.js" type="text/javascript"></script>
-     <!-- Jquery Appear -->
-	 <script  src="/templates/js/jquery.appear.js" type="text/javascript"></script>
-     <!-- Kafe JS -->
+          <!-- Kafe JS -->
      <script src="/templates/js/kafe.js" type="text/javascript"></script>
+
      
    	<!-- MAIN ENDS HERE -->
 
